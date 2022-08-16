@@ -23,6 +23,12 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Altyn777&repo=react-personal-project&theme=algolia)](https://github.com/Altyn777/react-personal-project)
 
+## Some statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altyn777&layout=compact&theme=algolia)](https://github.com/Altyn777)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Altyn777&count_private=true&theme=algolia&showicons=true)]()
+
 <!--
 **Altyn777/Altyn777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
