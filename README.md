@@ -9,15 +9,16 @@
 
 ## My skills
 
+![Js](https://img.shields.io/badge/-JavaScript-050f2c?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![Ts](https://img.shields.io/badge/-TypeScript-050f2c?style=for-the-badge&logo=TypeScript)
+![React](https://img.shields.io/badge/-react-050f2c?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-redux-050f2c?style=for-the-badge&logo=redux&logoColor=986cdf)
 ![HTML](https://img.shields.io/badge/-Html-050f2c?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![Css](https://img.shields.io/badge/-Css-050f2c?style=for-the-badge&logo=css3&logoColor=5c98f2)
 ![Scss](https://img.shields.io/badge/-SCSS-050f2c?style=for-the-badge&logo=SASS)
-![Js](https://img.shields.io/badge/-JavaScript-050f2c?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![Ts](https://img.shields.io/badge/-TypeScript-050f2c?style=for-the-badge&logo=TypeScript)
+![Less](https://img.shields.io/badge/-LESS-050f2c?style=for-the-badge&logo=LESS)
 ![Linux](https://img.shields.io/badge/-linux-050f2c?style=for-the-badge&logo=linux&logoColor=ddd)
 ![Git](https://img.shields.io/badge/-git-050f2c?style=for-the-badge&logo=git)
-![React](https://img.shields.io/badge/-react-050f2c?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/-redux-050f2c?style=for-the-badge&logo=redux&logoColor=986cdf)
 
 ## Popular repositories
 
