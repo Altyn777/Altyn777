@@ -14,9 +14,11 @@
 ![React](https://img.shields.io/badge/-react-050f2c?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-050f2c?style=for-the-badge&logo=redux&logoColor=986cdf)
 ![HTML](https://img.shields.io/badge/-Html-050f2c?style=for-the-badge&logo=html5&logoColor=E34F26)
+
 ![Css](https://img.shields.io/badge/-Css-050f2c?style=for-the-badge&logo=css3&logoColor=5c98f2)
 ![Scss](https://img.shields.io/badge/-SCSS-050f2c?style=for-the-badge&logo=SASS)
 ![Less](https://img.shields.io/badge/-LESS-050f2c?style=for-the-badge&logo=LESS)
+
 ![Linux](https://img.shields.io/badge/-linux-050f2c?style=for-the-badge&logo=linux&logoColor=ddd)
 ![Git](https://img.shields.io/badge/-git-050f2c?style=for-the-badge&logo=git)
 
@@ -27,8 +29,6 @@
 ## Some statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altyn777&layout=compact&theme=algolia)](https://github.com/Altyn777)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Altyn777&count_private=true&theme=algolia&showicons=true)]()
 
 <!--
 **Altyn777/Altyn777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
