@@ -11,6 +11,7 @@
 
 ![Js](https://img.shields.io/badge/-JavaScript-050f2c?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Ts](https://img.shields.io/badge/-TypeScript-050f2c?style=for-the-badge&logo=TypeScript)
+
 ![React](https://img.shields.io/badge/-react-050f2c?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-050f2c?style=for-the-badge&logo=redux&logoColor=986cdf)
 ![HTML](https://img.shields.io/badge/-Html-050f2c?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -25,6 +26,7 @@
 ## Popular repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Altyn777&repo=react-personal-project&theme=algolia)](https://github.com/Altyn777/react-personal-project)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Altyn777&repo=ecommerce&theme=algolia)](https://github.com/Altyn777/ecommerce)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Altyn777&repo=ecommerceapi&theme=algolia)](https://github.com/Altyn777/ecommerceapi)
 
