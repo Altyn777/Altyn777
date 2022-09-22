@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently doing some test tasks.
-- 🌱 I’m currently learning Node.js and improving React.js.
-- 👯 I’m looking to collaborate on friendly team.
+- 🌱 I’m currently learning C.
 - 🤔 I’m looking for help with improving my skills.
 - 💬 Ask me about HTML or JS.
 - 📫 How to reach me: **darzeeia@gmail.com**
