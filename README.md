@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/-git-050f2c?style=for-the-badge&logo=git)
 
 ![Rust](https://img.shields.io/badge/-rust-050f2c?style=for-the-badge&logo=rust)
-![NodeJS](https://https://img.shields.io/badge/-nodejs-050f2c?style=for-the-badge&logo=nodejs)
+![Node.js](https://img.shields.io/badge/-nodejs-050f2c?style=for-the-badge&logo=nodejs)
 
 ## Popular repositories
 
