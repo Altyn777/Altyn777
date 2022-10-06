@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C and Rust.
 - 🤔 I’m looking for help with improving my skills.
 - 💬 Ask me about HTML or JS.
 - 📫 How to reach me: **darzeeia@gmail.com**
@@ -20,6 +20,9 @@
 
 ![Linux](https://img.shields.io/badge/-linux-050f2c?style=for-the-badge&logo=linux&logoColor=ddd)
 ![Git](https://img.shields.io/badge/-git-050f2c?style=for-the-badge&logo=git)
+
+![Rust](https://img.shields.io/badge/-rust-050f2c?style=for-the-badge&logo=rust)
+![NodeJS](https://https://img.shields.io/badge/-nodejs-050f2c?style=for-the-badge&logo=nodejs)
 
 ## Popular repositories
 
