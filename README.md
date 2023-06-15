@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C and Rust.
-- 🤔 I’m looking for help with improving my skills.
-- 💬 Ask me about HTML or JS.
+- 🌱 I’m currently improving my sills.
 - 📫 How to reach me: **darzeeia@gmail.com**
 
 ## My skills
