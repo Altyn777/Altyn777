@@ -22,14 +22,6 @@
 ![Rust](https://img.shields.io/badge/-rust-050f2c?style=for-the-badge&logo=rust)
 ![Node.js](https://img.shields.io/badge/-nodejs-050f2c?style=for-the-badge&logo=nodejs)
 
-## Popular repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Altyn777&repo=react-personal-project&theme=algolia)](https://github.com/Altyn777/react-personal-project)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Altyn777&repo=ecommerce&theme=algolia)](https://github.com/Altyn777/ecommerce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Altyn777&repo=ecommerceapi&theme=algolia)](https://github.com/Altyn777/ecommerceapi)
-
-
 ## Some statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altyn777&layout=compact&theme=algolia)](https://github.com/Altyn777)
