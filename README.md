@@ -13,14 +13,19 @@
 ![HTML](https://img.shields.io/badge/-Html-050f2c?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 ![Css](https://img.shields.io/badge/-Css-050f2c?style=for-the-badge&logo=css3&logoColor=5c98f2)
-![Scss](https://img.shields.io/badge/-SCSS-050f2c?style=for-the-badge&logo=SASS)
+![SASS](https://img.shields.io/badge/-SASS-050f2c?style=for-the-badge&logo=SASS)
 ![Less](https://img.shields.io/badge/-LESS-050f2c?style=for-the-badge&logo=LESS)
 
 ![Linux](https://img.shields.io/badge/-linux-050f2c?style=for-the-badge&logo=linux&logoColor=ddd)
 ![Git](https://img.shields.io/badge/-git-050f2c?style=for-the-badge&logo=git)
 
+![Next.js](https://img.shields.io/badge/-next.js-050f2c?style=for-the-badge&logo=next.js)
 ![Rust](https://img.shields.io/badge/-rust-050f2c?style=for-the-badge&logo=rust)
-![Node.js](https://img.shields.io/badge/-nodejs-050f2c?style=for-the-badge&logo=nodejs)
+![Node.js](https://img.shields.io/badge/-node.js-050f2c?style=for-the-badge&logo=node.js)
+
+![PostgreSQL](https://img.shields.io/badge/-postgresql-050f2c?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-050f2c?style=for-the-badge&logo=SQLite)
+
 
 ## Some statistics
 
