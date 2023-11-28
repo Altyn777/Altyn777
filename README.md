@@ -26,6 +26,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-050f2c?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-050f2c?style=for-the-badge&logo=SQLite)
 
+![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphql-050f2c?style=for-the-badge&logo=ApolloGraphql)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-050f2c?style=for-the-badge&logo=TailwindCSS)
+![styled-components](https://img.shields.io/badge/-styledcomponents-050f2c?style=for-the-badge&logo=styledcomponents)
+![MUI](https://img.shields.io/badge/-mui-050f2c?style=for-the-badge&logo=mui)
+
 
 ## Some statistics
 
