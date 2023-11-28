@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-- 🌱 I’m currently improving my sills.
+- 🔭 I’m currently working on IoT project
+- 🌱 I’m currently learning CI/CD and Next.js
+- 💬 Ask me about protocols
 - 📫 How to reach me: **darzeeia@gmail.com**
 
 ## My skills
@@ -34,7 +35,7 @@
 ![MUI](https://img.shields.io/badge/-mui-050f2c?style=for-the-badge&logo=mui)
 
 
-## Some statistics
+## Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altyn777&layout=compact&theme=algolia)](https://github.com/Altyn777)
 
