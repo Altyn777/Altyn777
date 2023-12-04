@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on IoT project
-- 🌱 I’m currently learning CI/CD and Next.js
+- 🌱 I’m currently learning Rust
 - 💬 Ask me about protocols
 - 📫 How to reach me: **darzeeia@gmail.com**
 
