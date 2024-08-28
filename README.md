@@ -6,6 +6,8 @@
 
 ## My skills
 
+
+![Rust](https://img.shields.io/badge/-rust-050f2c?style=for-the-badge&logo=rust)
 ![Js](https://img.shields.io/badge/-JavaScript-050f2c?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Ts](https://img.shields.io/badge/-TypeScript-050f2c?style=for-the-badge&logo=TypeScript)
 
@@ -19,10 +21,6 @@
 
 ![Linux](https://img.shields.io/badge/-linux-050f2c?style=for-the-badge&logo=linux&logoColor=ddd)
 ![Git](https://img.shields.io/badge/-git-050f2c?style=for-the-badge&logo=git)
-
-![Next.js](https://img.shields.io/badge/-next.js-050f2c?style=for-the-badge&logo=next.js)
-![Rust](https://img.shields.io/badge/-rust-050f2c?style=for-the-badge&logo=rust)
-![Node.js](https://img.shields.io/badge/-node.js-050f2c?style=for-the-badge&logo=node.js)
 
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-050f2c?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-050f2c?style=for-the-badge&logo=SQLite)
