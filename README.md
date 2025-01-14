@@ -32,11 +32,6 @@
 ![styled-components](https://img.shields.io/badge/-styledcomponents-050f2c?style=for-the-badge&logo=styledcomponents)
 ![MUI](https://img.shields.io/badge/-mui-050f2c?style=for-the-badge&logo=mui)
 
-
-## Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altyn777&layout=compact&theme=algolia)](https://github.com/Altyn777)
-
 <!--
 **Altyn777/Altyn777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
